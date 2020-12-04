@@ -1,0 +1,14 @@
+:root {
+  font-size: 16px;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  color: #fff;
+  font-family: 'Open Sans';
+}

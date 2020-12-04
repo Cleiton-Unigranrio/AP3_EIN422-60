@@ -1,0 +1,24 @@
+.option-result {
+  width: 100%;
+  background: #555;
+  border-radius: 4px;
+  margin-bottom: 6px;
+}
+
+.option-result:last-child {
+  margin-bottom: 0px;
+}
+
+.option-result__content {
+  padding: 1px;
+  overflow: visible;
+  height: 100%;
+  word-wrap: no-wrap;
+  background: #c0392b;
+}
+
+.option-result--is-correct .option-result__content {
+  background: #27ae60;
+  font-weight: bold;
+  padding: 2px;
+}

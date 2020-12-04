@@ -1,0 +1,12 @@
+.formgroup input[type="radio"] {
+  margin-right: 8px;
+  width: max-content;
+}
+
+.formgroup {
+  margin-bottom: 6px;
+}
+
+.formgroup:last-child {
+  margin-bottom: 0px;
+}
